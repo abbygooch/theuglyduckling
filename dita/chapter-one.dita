@@ -13,7 +13,10 @@
         <p audience="children">This duckling was larger, with gray feathers and a long neck. </p>
         <p audience="adult">This duckling was larger, with gray feathers and a long neck. He was
             butt-ugly.</p>
-        <p>Mother Duck loved all her ducklings equally, but her heart sank when she saw how the
-            others quickly began to tease the strange-looking one.</p>
+        <p audience="children">Mother Duck loved all her ducklings equally, but her heart sank when
+            she saw how the others quickly began to tease the strange-looking one.</p>
+        <p audience="adult">Mother Duck told herself that she loved all her ducklings equally, but
+            she knew in her heart that she would never love the butt-ugly duckling the same as the
+            others.</p>
     </body>
 </topic>

@@ -2,7 +2,18 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_wck_jqk_fdc">
     <title>Chapter Five</title>
+    <shortdesc/>
     <body>
-        <p></p>
+        <p dir="ltr">As the seasons changed, the ugly duckling wandered into a beautiful meadow
+            filled with blooming flowers. </p>
+        <p dir="ltr">One day, he noticed a group of elegant swans gliding gracefully across a
+            shimmering lake. He watched in awe, captivated by their beauty and poise. </p>
+        <p audience="children">The ugly duckling longed to be like them. He wondered if he could
+            ever belong among such magnificent creatures.</p>
+        <p audience="adult">The ugly duckling felt a tug at his heart, like maybe this was where he
+            was supposed to be after all this time. He wondered if he could ever belong among such
+            magnificent creatures.</p>
+        <p dir="ltr">Defeated by a mix of admiration and sadness, he wished for the strength to
+            transform into something beautiful.</p>
     </body>
 </topic>

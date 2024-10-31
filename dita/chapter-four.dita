@@ -2,7 +2,18 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_wck_jqk_fdc">
     <title>Chapter Four</title>
+    <shortdesc>The Ugly Duckling sees no end to this journey.</shortdesc>
     <body>
-        <p></p>
+        <p>The journey was not easy for the ugly duckling. He endured cold nights and rainy days,
+            searching for food and shelter. </p>
+        <p audience="children">One day, he stumbled upon a kind old woman who took him in, providing
+            him with warmth and food. But even in her home, he felt like an outcast. Her cat hissed
+            at him and the other animals ignored him.</p>
+        <p audience="adult">One day, he stumbled upon a kind old woman who took him in, providing
+            him with warmth and food. But even in her home, he felt like an outcast. Her cat beat
+            him up just like his siblings did, except this time with claws, and the other animals
+            ignored him. </p>
+        <p dir="ltr">After a few days, the ugly duckling realized he still didn’t fit in and quietly
+            slipped away to continue his quest for a place to call home.</p>
     </body>
 </topic>
