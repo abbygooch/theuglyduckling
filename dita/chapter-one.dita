@@ -4,9 +4,13 @@
     <title>Chapter One</title>
     <shortdesc>The Ugly Duckling is born.</shortdesc>
     <body>
-        <p dir="ltr">It was a bright summer morning, and Mother Duck sat proudly on her nest by the
+        <p dir="ltr">It was a bright summer morning, and Mommy Duck sat proudly on her nest by the
             edge of the serene pond. She had been waiting what felt like forever for her eggs to
-            hatch, and today was finally the day. </p>
+            hatch, and today was finally the day.</p>
+        <fig id="fig_mzd_4fr_fdc">
+            <title>Mommy Duck Awaiting Her Babies</title>
+            <image href="mommyduck%20chap1.jpg" id="image_d4t_pfr_fdc" scale="50"/>
+        </fig>
         <p>One by one, the eggs cracked open, and out came the fluffy yellow ducklings, all chirping
             excitedly. But as the mother duck counted her babies, she noticed that one didn’t quite
             look like the rest.</p>
