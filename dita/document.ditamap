@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+  <title>The Ugly Duckling, as told by Abby Gooch</title>
+  <topicref href="index.dita"/>
+  <topicref href="chapter-one.dita"/>
+  <topicref href="chapter-two.dita"/>
+  <topicref href="chapter-three.dita"/>
+  <topicref href="chapter-four.dita"/>
+  <topicref href="chapter-five.dita"/>
+  <topicref href="chapter-six.dita"/>
+  <topicref href="chapter-seven.dita"/>
+</map>
