@@ -5,13 +5,24 @@
     <shortdesc>The Ugly Duckling's sad childhood.</shortdesc>
     <body>
         <p audience="children">As days turned into weeks, the ugly duckling found himself the target
-            of teasing. His siblings waddled around proudly, while he lagged behind, feeling clumsy
-            and out of place. </p>
+            of teasing. His siblings swam behind Mommy Duck proudly, while he lagged behind, feeling
+            clumsy and out of place. </p>
         <p audience="adult">As days turned into weeks, the ugly duckling found himself the target of
             teasing. His siblings ridiculed him and beat him up almost every day, only leaving him
             alone when his gray feathers were muddled with black and blue bruises.</p>
+        <fig id="fig_s3p_v4y_fdc">
+            <title>Ugly Duckling Doesn't Fit In</title>
+            <image href="uglybehindmommy.jpg" id="image_sph_kpy_fdc"
+                alt="Cartoon image of ducklings following behind mommy duck in the pond, with ugly duckling trailing behind"
+            />
+        </fig>
         <p dir="ltr">“Look at that ugly duckling!” they would quack at him. “He doesn’t belong with
             us!” </p>
+        <fig id="fig_nhd_npy_fdc">
+            <title>The Ugly Duckling Gets Teased</title>
+            <image href="uglygetteased.jpg" id="image_tln_4py_fdc"
+                alt="Cartoon image of two yellow ducklings teasing the ugly duckling"/>
+        </fig>
         <p dir="ltr" audience="children">Even the other animals on the farm joined in, calling him
             names and refusing to play with him. The ugly duckling felt lonely and sad, wishing he
             could fit in with his beautiful siblings. Every day, he watched them swim gracefully in
