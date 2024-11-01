@@ -5,22 +5,26 @@
     <shortdesc>Welcome to my retelling of The Ugly Duckling! Use the links below to navigate through
         the chapters.</shortdesc>
     <body>
-        <p>
-            <ul id="ul_nxj_2xy_fdc">
-                <li><xref href="chapter-one.dita"/><ul id="ul_zb5_pxy_fdc">
-                        <li><xref href="chapter-two.dita"/></li>
-                    </ul><ul id="ul_csh_qxy_fdc">
-                        <li><xref href="chapter-three.dita"/></li>
-                    </ul><ul id="ul_jnt_qxy_fdc">
-                        <li><xref href="chapter-four.dita"/></li>
-                    </ul><ul id="ul_arc_rxy_fdc">
-                        <li><xref href="chapter-five.dita"/></li>
-                    </ul><ul id="ul_ivj_rxy_fdc">
-                        <li><xref href="chapter-six.dita"/></li>
-                    </ul><ul id="ul_usr_rxy_fdc">
-                        <li><xref href="chapter-seven.dita"/></li>
-                    </ul></li>
-            </ul>
-        </p>
+        <ul id="ul_n55_gyy_fdc">
+            <li><xref href="chapter-one.dita"/></li>
+        </ul>
+        <ul id="ul_qnv_kyy_fdc">
+            <li><xref href="chapter-two.dita"/></li>
+        </ul>
+        <ul id="ul_cn3_lyy_fdc">
+            <li><xref href="chapter-three.dita"/></li>
+        </ul>
+        <ul id="ul_hrr_lyy_fdc">
+            <li><xref href="chapter-four.dita"/></li>
+        </ul>
+        <ul id="ul_ojb_myy_fdc">
+            <li><xref href="chapter-five.dita"/></li>
+        </ul>
+        <ul id="ul_vdn_myy_fdc">
+            <li><xref href="chapter-six.dita"/></li>
+        </ul>
+        <ul id="ul_odv_myy_fdc">
+            <li><xref href="chapter-seven.dita"/></li>
+        </ul>
     </body>
 </topic>
