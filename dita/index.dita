@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_fz1_bt2_bdc">
-    <title>Welcome to my retelling of the story of The Ugly Duckling</title>
+    <title>The Ugly Duckling, as told by Abby Gooch</title>
+    <shortdesc>Welcome to my retelling of The Ugly Duckling! Use the links below to navigate through
+        the chapters.</shortdesc>
     <body>
-        <p></p>
+        <p><xref href="chapter-one.dita"/><xref href="chapter-two.dita"/><xref
+                href="chapter-three.dita"/><xref href="chapter-four.dita"/><xref
+                href="chapter-five.dita"/><xref href="chapter-six.dita"/><xref
+                href="chapter-seven.dita"/></p>
     </body>
 </topic>
