@@ -5,9 +5,13 @@
     <shortdesc>Welcome to my retelling of The Ugly Duckling! Use the links below to navigate through
         the chapters.</shortdesc>
     <body>
-        <p><xref href="chapter-one.dita"/><xref href="chapter-two.dita"/><xref
-                href="chapter-three.dita"/><xref href="chapter-four.dita"/><xref
-                href="chapter-five.dita"/><xref href="chapter-six.dita"/><xref
-                href="chapter-seven.dita"/></p>
+        <p>
+            <ul id="ul_nxj_2xy_fdc">
+                <li><xref href="chapter-one.dita"/><xref href="chapter-two.dita"/><xref
+                        href="chapter-three.dita"/><xref href="chapter-four.dita"/><xref
+                        href="chapter-five.dita"/><xref href="chapter-six.dita"/><xref
+                        href="chapter-seven.dita"/></li>
+            </ul>
+        </p>
     </body>
 </topic>
