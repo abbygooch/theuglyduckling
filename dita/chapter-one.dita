@@ -9,7 +9,8 @@
             hatch, and today was finally the day.</p>
         <fig id="fig_mzd_4fr_fdc">
             <title>Mommy Duck Awaiting Her Babies</title>
-            <image href="mommyduck%20chap1.jpg" id="image_d4t_pfr_fdc" scale="50"/>
+            <image href="mommyduck%20chap1.jpg" id="image_wcl_jny_fdc" scale="25"
+                alt="Cartoon image of mommy duck sitting by a nest of eggs"/>
         </fig>
         <p>One by one, the eggs cracked open, and out came the fluffy yellow ducklings, all chirping
             excitedly. But as the mother duck counted her babies, she noticed that one didn’t quite
@@ -17,6 +18,11 @@
         <p audience="children">This duckling was larger, with gray feathers and a long neck. </p>
         <p audience="adult">This duckling was larger, with gray feathers and a long neck. He was
             butt-ugly.</p>
+        <fig id="fig_s4p_nny_fdc">
+            <title>The Ugly Little Duckling</title>
+            <image href="uglyducklingborn.jpg" id="image_dlp_zny_fdc" scale="25"
+                alt="Cartoon image of mommy duck watching the ugly duckling hatch"/>
+        </fig>
         <p audience="children">Mother Duck loved all her ducklings equally, but her heart sank when
             she saw how the others quickly began to tease the strange-looking one.</p>
         <p audience="adult">Mother Duck told herself that she loved all her ducklings equally, but
