@@ -11,11 +11,21 @@
             feathers beat, the ugly duckling decided he could no longer bear the pain. With a heavy
             heart, he spread his wings and waddled away from the farm, determined to find a place
             where he could belong. </p>
+        <fig id="fig_o1h_gqy_fdc">
+            <title>The Ugly Duckling Runs Away</title>
+            <image href="uglyrunsaway.jpg" id="image_blp_jqy_fdc"
+                alt="Cartoon image of ugly duckling crying and running" scale="50"/>
+        </fig>
         <p audience="children">He walked through fields and forests, meeting various animals along
             the way. Some ignored him, while others laughed at his appearance.</p>
         <p audience="adult">He walked through fields and forests, meeting various animals along the
             way. Some ignored him, while others laughed at his appearance, tripped him, or beat him
             up.</p>
+        <fig id="fig_vk5_mqy_fdc">
+            <title>The Ugly Duckling Walks On</title>
+            <image href="uglyonawalk.jpg" id="image_whz_4qy_fdc"
+                alt="Cartoon image of sad ugly duckling walking" scale="50"/>
+        </fig>
         <p dir="ltr">Despite the bullying he faced, the ugly duckling pressed on. He knew that
             somewhere in this world, there was acceptance.</p>
     </body>
